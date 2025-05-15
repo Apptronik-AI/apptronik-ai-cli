@@ -1,7 +1,5 @@
 # Apptronik AI CLI
 
-![Apptronik AI](https://apptronik-ai.com/logo.png)
-
 Apptronik AI helps you manage your crypto assets automatically, efficiently, and securely. Let our AI engine grow your portfolio while you focus on what matters.
 
 ## Features
