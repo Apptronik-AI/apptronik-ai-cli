@@ -14,26 +14,26 @@ Apptronik AI helps you manage your crypto assets automatically, efficiently, and
 ## Installation
 
 \`\`\`bash
-# Install globally
+## Install globally
 npm install -g apptronik-ai-cli
 
-# Or use with npx
+## Or use with npx
 npx apptronik-ai-cli
 \`\`\`
 
 ## Quick Start
 
 \`\`\`bash
-# Connect your wallet
+## Connect your wallet
 apptronik-ai-cli connect
 
-# View your portfolio
+## View your portfolio
 apptronik-ai-cli portfolio
 
-# Configure AI strategy
+## Configure AI strategy
 apptronik-ai-cli strategy
 
-# Run portfolio optimization
+## Run portfolio optimization
 apptronik-ai-cli optimize
 \`\`\`
 
